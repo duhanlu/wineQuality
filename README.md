@@ -7,7 +7,7 @@ total sulfur dioxide, density, pH, sulphates, and alcohol. With these data we wa
 First we need to check all null data in the file, using ''' print(data.isnull().sum()) 
 ## Data visualization 
 First the histogram for each dimenstion was analyzed.
-![Alt text](relative%20path/to/[img.jpg]https://github.com/duhanlu/wineQuality/blob/main/his_pic.png?raw=true "Title")
+![Alt text](relative%20[(https://github.com/duhanlu/wineQuality/blob/main/his_pic.png)]?raw=true "Title")
 Then the correlation between dimensions and also with the quality is analyzed as well. 
 ## Model choise
 
