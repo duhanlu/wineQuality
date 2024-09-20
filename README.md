@@ -9,6 +9,8 @@ First we need to check all null data in the file, using ''' print(data.isnull().
 First the histogram for each dimenstion was analyzed.
 ![histogram](https://github.com/duhanlu/wineQuality/blob/main/his_pic.png)
 Then the correlation between dimensions and also with the quality is analyzed as well. 
+
+![correlation](https://github.com/duhanlu/wineQuality/blob/main/correlation.png)
 ## Model choise
 
 ## Result 
