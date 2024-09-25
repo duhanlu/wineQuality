@@ -22,7 +22,7 @@ This is a claasification problem with multi-classes. The summary of classificati
 - neural network
 
 I've tried these classificatin algorithm to compare the pereformance. Following is the result for each algorithm. 
-  
+![correlation](https://github.com/duhanlu/wineQuality/blob/main/correlation.png)
 
   
 
