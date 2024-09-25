@@ -12,6 +12,19 @@ Then the correlation between dimensions and also with the quality is analyzed as
 
 ![correlation](https://github.com/duhanlu/wineQuality/blob/main/correlation.png)
 ## Model choise
+This is a claasification problem with multi-classes. The summary of classification algorithm is as below: 
+- Logistic Regression
+- Support Vector Machine (used for binary classification but can be used as multi-classification by treating two class with one class and other classes)
+- Decision Trees: used for small size of dataset 
+- Random Forest: used for a large size of dataset 
+- nearest neighbor 
+- naive bayes
+- neural network
+
+I've tried these classificatin algorithm to compare the pereformance. Following is the result for each algorithm. 
+  
+
+  
 
 ## Result 
 https://github.com/duhanlu/wineQuality/blob/main/his_pic.png
